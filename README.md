@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarcelloElia
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Front End Projects
+- 📫 How to reach me martorana@fourseventytwo.com
